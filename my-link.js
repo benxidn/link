@@ -14,5 +14,5 @@ function Fakecez() {
    window.open("https://youtube.com/shorts/V9j53vs8stA?feature=share","_self");
    }
 function Dexter() {
-   window.open("https://youtube.com/@DxtModz12","_self");
+   window.open("https://youtube.com/@DexterAB","_self");
    }
