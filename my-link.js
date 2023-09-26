@@ -2,7 +2,7 @@ function Home() {
    window.open("https://dexter.rf.gd","_self");
    }
 function Channel() {
-   window.open("https://youtube.com/@DxtModz12","_self");
+   window.open("https://youtube.com/@DexterAB","_self");
    }
 function Unduh() {
    window.open("https://youtu.be/f9Xum8Ps2mk","_self");
